@@ -1,5 +1,5 @@
 # Roll_With_It_Android
-a simple android game
+a simple android game made with Unity 3D
 
 Gameplay:
 
